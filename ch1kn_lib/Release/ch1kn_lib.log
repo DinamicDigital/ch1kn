@@ -1,0 +1,6 @@
+﻿  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ch1kn_lib.vcxproj -> C:\Dev\ch1kn_lib\Release\ch1kn_lib.exe
